@@ -1,6 +1,6 @@
 import { createContext, useContext, useEffect, useState } from "react";
 
-const backendUrl = "http://localhost:5000";
+const backendUrl = "https://sanjeevni-backend-git-master-qmint1.vercel.app";
 
 const ChatContext = createContext();
 
